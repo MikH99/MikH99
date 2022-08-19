@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MikH99&show_icons=true&theme=dark&count_private=true)
 <!--
 **MikH99/MikH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息；消息2&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=nihao;消息2&font=Roboto" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
