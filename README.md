@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1020&color=F72CB8&background=FF234D00&width=435&lines=%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4++++%E6%AC%A2%E8%BF%8E%E6%9D%A5%E7%9A%84%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+personal+social+page)](https://git.io/typing-svg)
 ![](https://github-readme-stats.vercel.app/api?username=MikH99&show_icons=true&theme=dark&count_private=true)
 <!--
 **MikH99/MikH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
